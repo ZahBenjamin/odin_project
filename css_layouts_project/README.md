@@ -1,0 +1,1 @@
+* Progress of the CSS Layouts project through the Odin Project for Benjamin Zah. For information contact at bz@benzah.com or visit www.benzah.com. 
